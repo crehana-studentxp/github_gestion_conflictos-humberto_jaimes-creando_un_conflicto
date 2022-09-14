@@ -1,3 +1,1 @@
-# Clase 5 - Integrando cambios con Merge
-
-# Clase 6 - Integrando cambios con Rebase
+# Clase 9 - Creando un conflicto
